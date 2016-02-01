@@ -12,3 +12,10 @@ Put your terms and definitions below. If you have never used markdown for format
 -Application Tier
 
 -Data Tier
+
+##Reference Glossary
+
+-http://www.uxworld.com/?p=384 
+-http://bit.ly/1nsOfma
+
+
